@@ -1,0 +1,43 @@
+{
+  "total": 50,
+  "SelectCount": 0,
+  "SkillTreeItems": [
+    {
+      "Name": "11",
+      "NeedCount": 2,
+      "Des": "",
+      "ColorDIVId": "",
+      "schedule": 50,
+      "Sun1Items": [
+        {
+          "Name": "11-21",
+          "Des": "",
+          "SKillMaxCount": 5,
+          "SelectCount": 2,
+          "Color": "",
+          "ColorDIVId": "",
+          "Sun2Items": [
+            {
+              "Name": "11-21-31",
+              "Des": "",
+              "SKillMaxCount": 5,
+              "SelectCount": 2,
+              "Color": "",
+              "ColorDIVId": "",
+              "Sun2Itms": [
+                {
+                  "Name": "11-21-31-41",
+                  "Des": "",
+                  "SKillMaxCount": 5,
+                  "SelectCount": 2,
+                  "Color": "",
+                  "ColorDIVId": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

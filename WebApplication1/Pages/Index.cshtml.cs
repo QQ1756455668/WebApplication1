@@ -14,8 +14,12 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-            ViewData["test1"] = "test1";
-            ViewData["test2"] = "测试2";
+
+        }
+
+        public void OnPost()
+        {
+            var a = "";
         }
     }
 }
